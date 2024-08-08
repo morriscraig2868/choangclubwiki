@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+ChoangClub - choangclub.wiki - địa chỉ nổi tiếng tại thị trường cá cược Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ChoangClub <https://choangclub.wiki/>`_ là thương hiệu uy tín và được đánh giá cao trong lĩnh vực cá cược trực tuyến. Ngay từ khi mới ra mắt, ChoangClub đã được chào đón một cách nồng nhiệt, đặc biệt là cộng đồng cược thủ Việt Nam. Hiện ChoangClub còn phát triển một kho các trò cá cược dân gian phong phú và đa dạng để phù hợp với thị hiếu của người chơi trong nước.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Liên hệ:
 
-.. note::
+Website: https://choangclub.wiki/
 
-   This project is under active development.
+Địa chỉ: 151 Hùng Vương - Hoàng Văn Thụ - Bắc Giang
 
-Contents
---------
+Zipcode: 230000
 
-.. toctree::
-
-   usage
-   api
+#ChoangClub #ChoangClubWiki #CaCuocChoangClub #DoiThuongChoangClub #CongGameChoangClub
